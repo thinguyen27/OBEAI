@@ -1,0 +1,12 @@
+# Environments
+.env
+.env.*
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Thư mục chứa data và file tạo ra lúc chạy (Không push lên git)
+backend/data/output/
+backend/data/temp/
